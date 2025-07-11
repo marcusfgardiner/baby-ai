@@ -54,5 +54,7 @@
 - Coverage reports generated automatically
 - Clear testing guidelines for future features
 - Use semantic commit messages including semantic emojis
+- Prefer a functional programming style
+- Use WebSearch for specific, concise, research-backed recommendations
 
 This ensures the critical age calculation logic is thoroughly tested while setting up a solid foundation for future end-to-end testing.
